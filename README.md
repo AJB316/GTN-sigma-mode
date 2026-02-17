@@ -1,2 +1,2 @@
 # GTN-sigma-mode
-Re-imagination of Asep3195's critically acclaimed game(s) GUESS THE NUMBER.
+Re-imagination of Asep3192's critically acclaimed game(s) GUESS THE NUMBER.
