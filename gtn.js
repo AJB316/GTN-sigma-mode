@@ -12,7 +12,7 @@ var diff = Math.abs(prompt("Difficulty (Integer):"));
 var min = Math.floor(Math.random()*diff);
 var max = Math.floor(diff+(Math.floor(Math.random()*diff+1)));
 var guesses = 10 + Math.ceil(diff/25);
-var guessMe = Math.floor(min + (Math.random()*max-min));
+var guessMe = Math.floor(min + (Math.random()*(max-min)));
 var lastGuess;
 var win;
 for(let i = guesses; i > 0; i--){
